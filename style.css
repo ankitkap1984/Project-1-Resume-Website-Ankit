@@ -1,0 +1,827 @@
+body{
+	font-family: "Roboto";
+	
+	background: #f7f9f9;
+	
+}
+
+hr{
+	border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(174, 213, 124, 0.2), rgba(174, 213, 124, 0.9), rgba(174, 213, 124, 0.2));
+	
+}
+
+object{
+	width:70%;
+	height:1150px;
+	margin:auto auto;
+	border:none;
+	background: none;
+	
+}
+
+.head-btn-margin{
+	margin-top: 6px;
+	
+}
+
+.midGreenText{
+	font-size:1.3em;
+	color:#5eb759;
+	
+}
+
+.utd{
+width:15%;
+opacity: 0.9;
+margin-right: 15px;
+	margin-top: 15px;
+	
+}
+.utd{
+width:12%;	
+	margin:4px 0px 0px 0px;
+	
+}
+
+.wbs{
+width:25%;
+	margin-right: 15px;
+	margin-top: 15px;
+	
+}
+.wbs2{
+width:20%;
+margin-bottom: 10px;
+	
+}
+
+.nit{
+width:14%;
+	margin-right: 22px;
+	margin-top: 15px;
+	
+}
+.nit2{
+width:27%;
+margin-bottom: 10px;
+	
+}
+
+.infy2{
+	width:20%;
+margin-bottom: 10px;
+}
+
+.ran{
+width:20%;
+margin-right: 20px;	
+	margin-top: 15px;
+	
+}
+.ran2{
+width:20%;
+margin-bottom: 10px;
+	
+}
+
+
+li{
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	font-size: 1.05em;
+	transition: 0.5s;	
+	
+}
+
+.navMarginOvercome{
+	margin-top:65px;
+	
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color:#5eb759;
+	transition: 0.5s;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background: none;
+	color:#5eb759;
+	font-size: 1.12em;
+	transition: 0.5s;
+}
+
+.btn-default{
+	background: #5eb759;
+	color:white;
+	padding:8px 15px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	font-size: 1em;
+	transition: 0.5s;
+}
+
+.btn-default:hover{
+	background: #488e53;
+	color:white;
+	padding:8px 15px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	font-size: 1em;
+	transition: 0.5s;
+}
+
+.navbar-brand>img {
+	width:8.6%;
+    display: inline;	
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	
+}
+
+.navbar-brand{
+    display: inline;	
+	margin:0px 0px 0px 0px;
+	padding:10px 0px 0px 0px;
+	
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+	margin-left: 0px;
+	margin-right: 0px;
+	
+}
+
+.nav-bar-name{
+	font-weight: bold;
+	letter-spacing: 1.1px;
+	
+}
+
+.navbar-default{
+	background-color: white;
+	
+}
+
+.navbar-right>li>a{
+	padding:0px 0px;
+	margin-top:15px;
+	margin-left:8px;
+	
+}
+
+.nav-bar-name1{
+	color:#626570;
+	font-weight: bold;
+	
+}
+
+.nav-bar-name2{
+	color:#5eb759;
+	font-weight: bold;
+	
+}
+
+.shiv-car1{
+	font-size: 1.7em;
+	background-color: #5eb759;
+	padding: 0px 0px;
+	text-shadow: none;	
+	
+}
+
+.shiv-car2{
+	font-size: 1.3em;
+	color:#44474c;
+	
+	
+}
+
+.HCMcloud{
+	margin-bottom: 121px;	
+}
+
+.PPSFT{
+	margin-bottom: 102px;	
+}
+
+.udemy{
+	margin-bottom: 78px;	
+}
+
+.alignPhoto{
+	margin-bottom: 35px;
+	margin-left: 0px;
+	
+}
+
+.alignCarousel{
+	padding-top: 0px;
+	
+}
+.nameHead{
+	font-size: 2.3em;
+	letter-spacing: 1px;
+	color:#5eb759;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	
+}
+
+.nameHead2{
+	font-size: 1.1em;
+	letter-spacing: 0.5px;
+	color:#626570;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	
+}
+
+.nameHead2v2{
+	font-size: 1.1em;
+	letter-spacing: 0.5px;
+	color:#626570;
+	font-family: "Roboto";
+	margin-top: 0px;
+	font-weight: bold;
+	
+}
+
+.eduHead1{
+	font-size: 0.9em;
+	letter-spacing: 0.5px;
+	color:#626570;
+	font-family: "Archivo Black";
+	margin:0px 0px;
+	padding:0px 0px;
+	
+}
+
+.nameHead3{
+	margin-top: 8px;
+	margin-bottom: 0px;
+	color:#6b6d70;
+	
+}
+
+.city{
+	margin-top: 2px;
+	margin-bottom: 0px;
+	color:#6b6d70;
+	
+}
+
+.skills{
+	text-align: center;
+	
+}
+
+.skillHead{
+margin-bottom:0px;	
+	font-size: 1.1em;
+	
+}
+
+h4{
+	font-weight: bold;
+	color:#282a2d;
+	
+}
+
+.bodyHead{
+	font-size: 1.4em;
+	font-weight: bold;
+	letter-spacing: 5px;
+	color:white;
+	background-color: #5eb759;
+	font-family: "Roboto";
+	padding:8px 20px 8px 20px;
+	border-radius: 2px;
+	
+}
+
+.bodyHeadPara{
+	margin-bottom: 10px;
+	
+}
+
+.edu-cert{
+	margin-top:10px;
+	
+}
+
+.edu-cert-head{
+	font-size: 1.8em;
+	letter-spacing: 0.5px;
+	color:#282a2d;
+	font-family: "Archivo Black";
+	margin:0px 0px;
+	padding:0px 0px;
+	
+}
+
+.eduHead2{
+	font-size: 1em;
+	letter-spacing: 0.5px;
+	color:#5eb759;
+	font-family: "Archivo Black";
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding:0px 0px;
+	font-weight: bold;
+	
+}
+
+.eduHead3{
+	font-size: 0.95em;
+	letter-spacing: 0.5px;
+	color:#7a7c7f;
+	font-family: "Archivo Black";
+	margin-top: 1px;
+	margin-bottom: 0px;
+	padding:0px 0px;
+	
+}
+
+.eduHead4{
+	font-size: 0.9em;
+	letter-spacing: 0.5px;
+	color:#6b6d70;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	margin-bottom: 40px;
+	padding:0px 0px;
+	
+	
+}
+
+.exp-companies{
+	margin-top:30px;
+	margin-bottom:10px;
+	
+}
+
+.mail{
+	position:fixed;
+	width:2.5%;
+	margin-top:9%;
+	margin-left: 2%;
+	opacity: 0.9;
+	
+}
+
+.link{
+	position:fixed;
+	width:2.5%;
+	margin-top:12%;
+	margin-left: 2%;
+	opacity: 0.9;
+	
+}
+
+.git{
+	position:fixed;
+	width:2.5%;
+	margin-top:15%;
+	margin-left: 2%;
+	opacity: 0.9;
+	
+}
+
+.tab{
+	position:fixed;
+	width:2.5%;
+	margin-top:18%;
+	margin-left: 2%;
+	opacity: 0.9;
+	
+}
+
+.spaceHead{
+		margin-top: 40px;
+	
+	}
+
+.lightWidth{
+	width:100%;
+	border: 1px solid lightgrey;
+}
+
+/*Phones*/
+@media only screen and (min-width : 1px) and (max-width : 767px) {
+	
+	body{
+	font-family: "Roboto";
+		
+}
+
+hr{
+	border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(174, 213, 124, 0.2), rgba(174, 213, 124, 0.9), rgba(174, 213, 124, 0.2));
+	
+}
+
+.head-btn-margin{
+	margin-top: 0px;
+	
+}
+	
+.midGreenText{
+	font-size:1.2em;
+	color:#5eb759;
+	
+}
+
+
+.wbs2{
+width:25%;
+margin-bottom: 10px;
+	
+}
+
+.nit2{
+width:29%;
+margin-bottom: 10px;
+	
+}
+	
+	.infy2{
+	width:20%;
+margin-bottom: 10px;
+}
+
+.ran2{
+width:28%;
+margin-bottom: 10px;
+	
+}
+
+ul{
+text-align: center;		
+	
+	}
+
+li{
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	font-size: 1.05em;
+	transition: 0s;
+	
+}
+	
+		.mail{
+	position:fixed;
+	width:8%;
+	margin-top:335px;
+	margin-left: 87%;
+	z-index: 1000;
+	opacity: 0.8;
+		
+}
+	
+	
+	.link{
+	position:fixed;
+	width:8%;
+	margin-top:370px;
+	margin-left: 87%;
+		z-index: 1000;
+		opacity: 0.8;
+		
+}
+
+.git{
+	position:fixed;
+	width:8%;
+	margin-top:405px;
+	margin-left: 87%;
+	z-index: 1000;
+	opacity: 0.8;
+	
+}
+	
+.tab{
+	position:fixed;
+	width:8%;
+	margin-top:440px;
+	margin-left: 87%;
+	z-index: 1000;
+	opacity: 0.8;
+	
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color:#5eb759;
+	transition: 0s;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background: none;
+	color:#5eb759;
+	font-size: 1.12em;
+	transition: 0s;
+}
+
+.btn-default{
+	background: #5eb759;
+	color:white;
+	padding:8px 15px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	font-size: 1.05em;
+	transition: 0s;
+}
+
+.btn-default:hover{
+	background: #488e53;
+	color:white;
+	padding:8px 15px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	font-size: 1.05em;
+	transition: 0s;
+}
+
+.navbar-brand>img {
+	width:10.15%;
+    display: none;	
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	
+}
+
+.navbar-brand{
+    display: inline;	
+	margin:0px 0px 0px 0px;
+	padding:15px 0px 0px 18px;
+	
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+	margin-left: 0px;
+	margin-right: 0px;
+	
+}
+
+.nav-bar-name{
+	font-weight: bold;
+	letter-spacing: 1.1px;
+	
+}
+
+.navbar-default{
+	background-color: white;
+	
+}
+
+.nav-bar-name1{
+	color:#626570;
+	font-weight: bold;
+	font-size: 0.85em;
+	margin: 0px 0px 0px 0px;
+	
+}
+
+.nav-bar-name2{
+	color:#5eb759;
+	font-weight: bold;
+	font-size: 0.85em;
+	margin: 0px 0px 0px 0px;
+	
+}
+
+.shiv-car1{
+	font-size: 1.2em;
+	background-color: #5eb759;
+	padding: 0px 0px;
+	text-shadow: none;
+	
+	
+}
+
+.shiv-car2{
+	font-size: 0.9em;
+	color:#44474c;
+	
+}
+
+.alignPhoto{
+	padding-top: 10px;
+	margin-bottom: 2px;
+	padding-bottom: 0px;
+	margin-left: 0px;
+	
+}
+	
+.HCMcloud{
+	margin-bottom: 52px;	
+}
+	
+.PPSFT{
+	margin-bottom: 40px;	
+}
+
+.udemy{
+	margin-bottom: 8px;	
+}
+
+.alignCarousel{
+	padding-top: 0px;
+	margin-top: 0px;
+	text-align: center;
+	
+}
+	
+.alignCenterMobile{
+	text-align: center;
+	
+}
+	
+.nameHead{
+	font-size: 1.6em;
+	letter-spacing: 0.5px;
+	color:#5eb759;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	
+}
+
+.nameHead2{
+	font-size: 1em;
+	letter-spacing: 0.5px;
+	color:#626570;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	
+}
+	
+.nameHead2v2{
+	font-size: 1em;
+	letter-spacing: 0.5px;
+	color:#626570;
+	font-family: "Roboto";
+	margin-top: 0px;
+	font-weight: bold;
+	
+}
+
+.eduHead1{
+	font-size: 0.9em;
+	letter-spacing: 0.5px;
+	color:#626570;
+	font-family: "Archivo Black";
+	margin:0px 0px;
+	padding:0px 0px;
+	
+}
+
+.nameHead3{
+	margin-top: 8px;
+	margin-bottom: 0px;
+	color:#6b6d70;
+	
+}
+
+.city{
+	margin-top: 2px;
+	margin-bottom: 0px;
+	color:#6b6d70;
+	
+}
+
+.skills{
+	text-align: center;
+	margin-top: 20px;
+	
+}
+
+	.spaceHead{
+		margin-top:0px;	
+		
+	}
+	
+.skillHead{
+	margin:0px 0px;
+	padding:0px 0px;
+	font-size: 0.66em;
+	font-weight: bolder;
+	margin-top:20px;
+	
+}
+
+h4{
+	font-weight: bold;
+	color:#282a2d;
+	
+}
+
+.bodyHead{
+	font-size: 1.2em;
+	font-weight: bold;
+	letter-spacing: 5px;
+	color:white;
+	background-color: #5eb759;
+	font-family: "Roboto";
+	padding:6px 15px 6px 15px;
+	border-radius: 2px;
+	
+}
+
+.bodyHeadPara{
+	margin-bottom: 10px;
+	text-align: center;
+	
+}
+
+.edu-cert{
+	margin-top:10px;
+	
+}
+
+.edu-cert-head{
+	font-size: 1.5em;
+	letter-spacing: 0.5px;
+	color:#282a2d;
+	font-family: "Archivo Black";
+	margin:0px 0px;
+	padding:0px 0px;
+	
+}
+
+.eduHead2{
+	font-size: 1em;
+	letter-spacing: 0.6px;
+	color:#5eb759;
+	font-family: "Roboto";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding:0px 0px;
+	font-weight: bolder;
+	
+}
+
+.eduHead3{
+	font-size: 0.95em;
+	letter-spacing: 0.5px;
+	color:#7a7c7f;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding:0px 0px;
+	
+}
+
+.eduHead4{
+	font-size: 0.9em;
+	letter-spacing: 0.5px;
+	color:#6b6d70;
+	font-family: "Archivo Black";
+	margin-top: 0px;
+	margin-bottom: 30px;
+	padding:0px 0px;
+	
+}
+
+.exp-companies{
+	margin-top:10px;
+	margin-bottom:5px;
+	
+}
+	
+	object{
+	display:none;
+		
+}
+	
+	
+	
+}
+
+
+/*ipads portrait and landscapes*/
+@media only screen and (min-width : 768px)  and (max-width : 1050px) {
+	
+	object{
+	width:600px;
+	height:1150px;
+	margin:auto auto;
+	border:none;
+	background: none;
+		
+}
+	
+	.navMarginOvercome{
+	margin-top:100px;
+		
+}
+	
+	.spaceHead{
+		margin-top: 0px;
+		
+	}
+	
+}
+
+
